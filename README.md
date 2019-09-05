@@ -1,3 +1,5 @@
 # TestAppOnTablet
 testApp
-[TestTablet](https://serhiitkachenko.github.io/learning-features-of-front-end/src/AcademyStudy/Flexbox/index.html)  :milky_way:
+[TestTablet](https://serhiitkachenko.github.io/TestAppOnTablet/blob/master/index.html)  :milky_way:
+
+
